@@ -1,6 +1,6 @@
 {
-    "name": "YellowFoodCostCalculator",
-    "short_name": "YellowFoodCostCalculator",
+    "name": "食材費電卓(Web)",
+    "short_name": "食材費電卓(Web)",
     "start_url": ".",
     "display": "minimal-ui",
     "background_color": "#0175C2",
